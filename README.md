@@ -1,4 +1,4 @@
-# profile-readme
+# profile
 Personal introduction and a glimpse into my learning journey 💻
 👋 Hi, I’m Aakash.
 
