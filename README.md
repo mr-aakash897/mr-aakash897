@@ -6,17 +6,21 @@ Welcome to my first GitHub repository 🎉<br>This repository marks the beginnin
 💻 Currently focused on Frontend Development<br>📘 Actively learning Data Structures & Algorithms (DSA)<br>⚙️ Exploring Backend Development using Django / Java + SQL<br>🎯 2025 Goal: Build strong full-stack development expertise<br>🔒 Future interests: Cybersecurity & Cloud Computing<br>🚀 Aspiring to become a highly skilled developer and contribute to meaningful, real-world projects<br><br>I am passionate about building clean, user-friendly, and scalable applications while continuously improving my problem-solving skills.<br>
 
 ## 📂 What’s Inside This Repository<br>
-### 📝 README.md → My personal introduction (this file)<br>
-### 📁 Upcoming additions:<br>
-- <br>Practice projects<br>
-- <br>Learning experiments<br>
-- <br>Mini applications<br>
-- <br>DSA solutions<br>
-- <br>Backend implementations<br>
-- <br>This repository will evolve alongside my skills.<br>
+#### 📝 README.md → My personal introduction (this file)<br>
+#### 📁 Upcoming additions:<br>
+- Practice projects<br>
+- Learning experiments<br>
+- Mini applications<br>
+- DSA solutions<br>
+- Backend implementations<br>
+- This repository will evolve alongside my skills.<br>
 
 ## 🌟 Why This Repository?<br>
-This is my first GitHub repository — created to:<br>Practice version control using Git & GitHub<br><br>Document my development journey<br><br>Build consistency and discipline<br><br>Create a foundation for larger future projects<br>Every expert was once a beginner. This repository represents my starting point.
+This is my first GitHub repository — created to:<br>
+- Practice version control using Git & GitHub<br>
+- Document my development journey<br>
+- Build consistency and discipline<br>
+- Create a foundation for larger future projects<br>Every expert was once a beginner. This repository represents my starting point.
 
 
 ## 🌐 Socials:
