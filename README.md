@@ -3,7 +3,7 @@
 Welcome to my first GitHub repository 🎉<br>This repository marks the beginning of my development journey and serves as a space to document my growth, projects, and learning progress as I evolve in the tech ecosystem.<br>
 
 ## 🙋‍♂️ Who I Am<br>
-💻 Currently focused on Frontend Development<br>📘 Actively learning Data Structures & Algorithms (DSA)<br>⚙️ Exploring Backend Development using Django / Java + SQL<br>🎯 2025 Goal: Build strong full-stack development expertise<br>🔒 Future interests: Cybersecurity & Cloud Computing<br>🚀 Aspiring to become a highly skilled developer and contribute to meaningful, real-world projects<br><br>I am passionate about building clean, user-friendly, and scalable applications while continuously improving my problem-solving skills.<br>
+💻 Currently focused on Frontend Development<br>📘 Actively learning Data Structures & Algorithms (DSA)<br>⚙️ Exploring Backend Development using Django / Java + SQL<br>🎯 2026 Goal: Build strong full-stack development expertise<br>🔒 Future interests: Cybersecurity & Cloud Computing<br>🚀 Aspiring to become a highly skilled developer and contribute to meaningful, real-world projects<br><br>I am passionate about building clean, user-friendly, and scalable applications while continuously improving my problem-solving skills.<br>
 
 ## 📂 What’s Inside This Repository<br>
 #### 📝 README.md → My personal introduction (this file)<br>
