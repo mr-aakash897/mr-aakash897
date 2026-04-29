@@ -10,7 +10,7 @@
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Aakash Chouhan;Final+Year+Student;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Aakash;Final+Year+Student;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Building+Cool+Projects" />
 </p>
 
 ---
