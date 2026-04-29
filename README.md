@@ -1,3 +1,20 @@
+<!-- 🔥 Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c6ff&height=220&section=header&text=Welcome%20to%20My%20GitHub!%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-aakash897&label=PROFILE+VIEWS&color=00c6ff&style=for-the-badge" />
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Aakash Chouhan;Final+Year+Student;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Building+Cool+Projects" />
+</p>
+
+---
+
 # 💫 About Me:
 👋 Hi, I’m Aakash.<br>
 Welcome to my first GitHub repository 🎉<br>This repository marks the beginning of my development journey and serves as a space to document my growth, projects, and learning progress as I evolve in the tech ecosystem.<br>
