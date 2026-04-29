@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=25&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Aakash;Final+Year+Student;Aspiring+Software+Engineer;AI+%7C+Web+Developer;Building+Cool+Projects" />
 </p>
 
----
+
 
 # 💫 About Me:
 👋 Hi, I’m Aakash.<br>
@@ -50,6 +50,19 @@ This is my first GitHub repository — created to:<br>
 ![](https://github-readme-stats.vercel.app/api?username=mr-aakash897&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mr-aakash897&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-aakash897&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📊 GitHub Activity & Contributions
+
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Puneetx21&theme=dark&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-aakash897&theme=github-dark" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mr-aakash897&theme=dark&no-frame=false&no-bg=false&margin-w=4)
